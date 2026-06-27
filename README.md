@@ -35,7 +35,6 @@ This project is created using Python and NumPy and is useful for learning:
 ---
 
 ## 📂 Project Structure
-
 ```bash
 Student_Marks_Analyzer/
 │
