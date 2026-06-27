@@ -10,7 +10,6 @@ This project is created using Python and NumPy and is useful for learning:
 * Arrays using NumPy
 * Basic data analysis logic
 
----
 
 ## 🚀 Features
 
