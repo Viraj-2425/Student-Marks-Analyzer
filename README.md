@@ -9,7 +9,8 @@ This project is created using Python and NumPy and is useful for learning:
 * Conditional statements
 * Arrays using NumPy
 * Basic data analysis logic
-
+  
+---
 
 ## 🚀 Features
 
@@ -127,11 +128,9 @@ Through this project, you can learn:
 ---
 
 ## 👨‍💻 Author
-
 Viraj Patil
 
 ---
 
 ## ⭐ Support
-
 If you like this project, give it a star on GitHub ⭐
