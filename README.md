@@ -17,7 +17,6 @@ This project is created using Python and NumPy and is useful for learning:
 * Takes marks input for multiple subjects
 * Validates marks between 0 and 100
 * Calculates:
-
   * Total Marks
   * Average Marks
   * Highest Marks
