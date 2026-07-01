@@ -52,7 +52,7 @@ Student_Marks_Analyzer/
 git clone https://github.com/your-username/student-marks-analyzer.git
 ```
 
-### 2. Open the Project Folder
+## 2. Open the Project Folder
 
 ```bash
 cd student-marks-analyzer
