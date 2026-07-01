@@ -46,7 +46,7 @@ Student_Marks_Analyzer/
 
 ## ▶️ How to Run the Project
 
-### 1. Clone the Repository
+## 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/student-marks-analyzer.git
