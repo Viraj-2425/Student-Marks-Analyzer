@@ -82,7 +82,6 @@ Open the Jupyter Notebook and run all cells.
 ---
 
 ## 💻 Sample Output
-
 ```text
 Welcome to Student Marks Analyzer
 Know your marks fast and accurately
