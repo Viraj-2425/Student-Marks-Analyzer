@@ -3,7 +3,6 @@
 A beginner-friendly Python project that analyzes student marks and generates useful insights such as total marks, average, highest marks, lowest marks, and final grade.
 
 This project is created using Python and NumPy and is useful for learning:
-
 * User input handling
 * Functions in Python
 * Conditional statements
