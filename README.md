@@ -30,7 +30,6 @@ This project is created using Python and NumPy and is useful for learning:
 * Python
 * NumPy
 * Jupyter Notebook
-
 ---
 
 ## 📂 Project Structure
